@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently in my 3rd year of Computer Science and Technology at BRAC University. <br>I am proficient in Fullstack Web3 development. My stack is NextJS, Solidity, Foundry, Hardhat, truffle<br>Typescript, Prisma, MySql, NodeJS, Remix, Metamask.<br><br>I have skills in design skills using photoshop and illustrator.<br><br>I was also active with SEO back in my school days. <br><br>Now I want to become a blockchain dev fully. 
+### About Me 🚀
+
+Hi there! I'm **Ahammod Munim Ramil**, a passionate **Web3 enthusiast** and a dedicated **full-stack blockchain developer**. Currently, I specialize in building innovative decentralized applications (dApps) with a focus on Ethereum and related technologies. My toolkit includes **Next.js, Solidity, Foundry, ethers.js, TypeScript, and Tailwind CSS**, allowing me to deliver seamless and efficient Web3 solutions.
+
+Beyond coding, I'm an aspiring researcher eager to explore the intersection of **blockchain and AI**. With a **CGPA of 3.9+** in my undergraduate studies, I aim to pursue a **master's and Ph.D.** abroad in blockchain-related fields.
+
+When I'm not immersed in development or research, you'll find me designing intuitive UIs, lifting weights at the gym, or conceptualizing entrepreneurial ventures that bridge technology and business.
+
+📬 Feel free to connect with me for collaboration, research, or just a friendly chat!
 
 
 ## 🌐 Socials:
